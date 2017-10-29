@@ -1,0 +1,16 @@
+{
+"someKey": {
+"numberValue": 123,
+"stringValue": "a string contain \"double quote\"",
+"nullValue": null,
+"subKey": {
+"subNumber": 4567
+}
+},
+"someArray": [
+456,
+{ "someKey": 345 },
+[1, 2, 3, 4, 5],
+null
+]
+}
